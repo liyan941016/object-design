@@ -1,0 +1,7 @@
+id  name    Passworld  age  (ad_id  limit)  (sex  lend  Return)  （level）（sclass adress）用户4 管理员6  读者7  教师8  学生9
+1-lisi-123456-20-1-图书馆管理员
+2-wangwu-123456-25-男-5-4-教授
+3-zhangsan-123456-30-女-1-1-计科高职-潍坊
+4-liyan-123456-20-女-1-1-计科高职-青岛
+5-zhaoliu-123456-21-男-5-4-博士
+7-sunqi-123456-20-2-图书馆管理员
